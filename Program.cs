@@ -38,7 +38,6 @@ namespace ConsoleAulaObj
             //}
 
 
-            teste dfjsdfsj
         }
     }
 }
